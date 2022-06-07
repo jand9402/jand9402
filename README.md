@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jairo
 #### I am Front-end Dev
-![I am Front-end Dev][img src='(https://i.postimg.cc/qqkmXKmr/h1-Hello-World-h1-3.png)' alt='img'>]
+[<img src='(https://i.postimg.cc/qqkmXKmr/h1-Hello-World-h1-3.png)' alt='img'>]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
