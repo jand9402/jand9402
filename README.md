@@ -4,7 +4,7 @@
 
 Skills: Javascript / REACT.js / Redux / HTML / CSS / Bootstrap 
 
-### Hello, welcome to my profile, let me tell you a little more about me.
+### Hello, welcome to my profile, let me tell you a little bit about me.
 
 I am Full Stack Dev although I am oriented to the Front-end, I also have knowledge of Node.js, Express and SQL.
 
